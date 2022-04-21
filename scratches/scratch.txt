@@ -1,0 +1,5 @@
+26-nato-alpha  E:\100days\26-nato-alpha
+  venv  library root
+  main.py
+External Libraries
+Scratches and Consoles
