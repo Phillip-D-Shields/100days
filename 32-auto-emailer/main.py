@@ -12,7 +12,7 @@ import random
 import smtplib
 
 MY_EMAIL = "phills.auto.mailer@gmail.com"
-MY_PASSWORD = "QciA2LQZXgEzM6B"
+MY_PASSWORD = "PASTE_PASSWORD_HERE"
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
