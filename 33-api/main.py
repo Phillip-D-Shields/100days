@@ -4,7 +4,7 @@ import smtplib
 import time
 
 MY_EMAIL = "phills.auto.mailer@gmail.com"
-MY_PASSWORD = "PASTE_PASSWORD_HERE"
+MY_PASSWORD = "PASSWORD_HERE"  # TODO remove after testing
 MY_LAT = -41.270634  # Your latitude
 MY_LONG = 173.283966  # Your longitude
 
